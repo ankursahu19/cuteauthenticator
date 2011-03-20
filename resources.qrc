@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>edit-clear.png</file>
+        <file>application-exit.png</file>
+        <file>bookmark-new.png</file>
+        <file>gtk-no.png</file>
+        <file>gtk-yes.png</file>
+    </qresource>
+</RCC>
