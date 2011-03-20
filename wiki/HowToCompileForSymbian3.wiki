@@ -1,0 +1,14 @@
+#summary How to compile the project for Symbian^3
+
+== How to compile for Symbian^3 in Windows 7 ==
+You must have Ovi Suite installed and you S^3 device paired with it.
+  # Download the NokiaQtSDK from [http://www.forum.nokia.com/Develop/Qt/ forum.nokia.com].     
+  # Then open the project .pro file in QtCreator and
+  # press Ctrl+b
+  # connect you S^3 device with USB cable
+  # Start Menu > All programs > QtSDK > Symbian^3^ Qt 4.7.2 > Install TRK/Qt/QtWebkit to the S^3^ phone
+  # After installing the library dependencies deploy and run the code in the device by pressing ctrl+r in QtCreator
+
+== How to compile for Symbian^3 in Linux ==
+Use steps in the guide for Windows, but select target as Remote Compiler. You need Forum Nokia account for that one as you are then sending the code to external servers for compiling.
+     
